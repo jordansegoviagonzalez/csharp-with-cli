@@ -1,0 +1,14 @@
+C:\Users\segov\OneDrive\Desktop\repos\NewSln\NewProj\bin\Debug\net8.0\NewProj.exe
+C:\Users\segov\OneDrive\Desktop\repos\NewSln\NewProj\bin\Debug\net8.0\NewProj.deps.json
+C:\Users\segov\OneDrive\Desktop\repos\NewSln\NewProj\bin\Debug\net8.0\NewProj.runtimeconfig.json
+C:\Users\segov\OneDrive\Desktop\repos\NewSln\NewProj\bin\Debug\net8.0\NewProj.dll
+C:\Users\segov\OneDrive\Desktop\repos\NewSln\NewProj\bin\Debug\net8.0\NewProj.pdb
+C:\Users\segov\OneDrive\Desktop\repos\NewSln\NewProj\obj\Debug\net8.0\NewProj.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\segov\OneDrive\Desktop\repos\NewSln\NewProj\obj\Debug\net8.0\NewProj.AssemblyInfoInputs.cache
+C:\Users\segov\OneDrive\Desktop\repos\NewSln\NewProj\obj\Debug\net8.0\NewProj.AssemblyInfo.cs
+C:\Users\segov\OneDrive\Desktop\repos\NewSln\NewProj\obj\Debug\net8.0\NewProj.csproj.CoreCompileInputs.cache
+C:\Users\segov\OneDrive\Desktop\repos\NewSln\NewProj\obj\Debug\net8.0\NewProj.dll
+C:\Users\segov\OneDrive\Desktop\repos\NewSln\NewProj\obj\Debug\net8.0\refint\NewProj.dll
+C:\Users\segov\OneDrive\Desktop\repos\NewSln\NewProj\obj\Debug\net8.0\NewProj.pdb
+C:\Users\segov\OneDrive\Desktop\repos\NewSln\NewProj\obj\Debug\net8.0\NewProj.genruntimeconfig.cache
+C:\Users\segov\OneDrive\Desktop\repos\NewSln\NewProj\obj\Debug\net8.0\ref\NewProj.dll

@@ -1,0 +1,4 @@
+C:\Users\segov\OneDrive\Desktop\repos\NewSln\obj\Debug\net8.0\NewSln.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\segov\OneDrive\Desktop\repos\NewSln\obj\Debug\net8.0\NewSln.AssemblyInfoInputs.cache
+C:\Users\segov\OneDrive\Desktop\repos\NewSln\obj\Debug\net8.0\NewSln.AssemblyInfo.cs
+C:\Users\segov\OneDrive\Desktop\repos\NewSln\obj\Debug\net8.0\NewSln.csproj.CoreCompileInputs.cache
