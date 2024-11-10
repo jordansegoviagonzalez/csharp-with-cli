@@ -1,0 +1,15 @@
+C:\Users\segov\OneDrive\Desktop\repos\SelectionStatementsLecture\SelectionStatementsLecture\bin\Debug\net8.0\SelectionStatementsLecture.exe
+C:\Users\segov\OneDrive\Desktop\repos\SelectionStatementsLecture\SelectionStatementsLecture\bin\Debug\net8.0\SelectionStatementsLecture.deps.json
+C:\Users\segov\OneDrive\Desktop\repos\SelectionStatementsLecture\SelectionStatementsLecture\bin\Debug\net8.0\SelectionStatementsLecture.runtimeconfig.json
+C:\Users\segov\OneDrive\Desktop\repos\SelectionStatementsLecture\SelectionStatementsLecture\bin\Debug\net8.0\SelectionStatementsLecture.dll
+C:\Users\segov\OneDrive\Desktop\repos\SelectionStatementsLecture\SelectionStatementsLecture\bin\Debug\net8.0\SelectionStatementsLecture.pdb
+C:\Users\segov\OneDrive\Desktop\repos\SelectionStatementsLecture\SelectionStatementsLecture\obj\Debug\net8.0\SelectionStatementsLecture.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\segov\OneDrive\Desktop\repos\SelectionStatementsLecture\SelectionStatementsLecture\obj\Debug\net8.0\SelectionStatementsLecture.AssemblyInfoInputs.cache
+C:\Users\segov\OneDrive\Desktop\repos\SelectionStatementsLecture\SelectionStatementsLecture\obj\Debug\net8.0\SelectionStatementsLecture.AssemblyInfo.cs
+C:\Users\segov\OneDrive\Desktop\repos\SelectionStatementsLecture\SelectionStatementsLecture\obj\Debug\net8.0\SelectionStatementsLecture.csproj.CoreCompileInputs.cache
+C:\Users\segov\OneDrive\Desktop\repos\SelectionStatementsLecture\SelectionStatementsLecture\obj\Debug\net8.0\SelectionStatementsLecture.sourcelink.json
+C:\Users\segov\OneDrive\Desktop\repos\SelectionStatementsLecture\SelectionStatementsLecture\obj\Debug\net8.0\SelectionStatementsLecture.dll
+C:\Users\segov\OneDrive\Desktop\repos\SelectionStatementsLecture\SelectionStatementsLecture\obj\Debug\net8.0\refint\SelectionStatementsLecture.dll
+C:\Users\segov\OneDrive\Desktop\repos\SelectionStatementsLecture\SelectionStatementsLecture\obj\Debug\net8.0\SelectionStatementsLecture.pdb
+C:\Users\segov\OneDrive\Desktop\repos\SelectionStatementsLecture\SelectionStatementsLecture\obj\Debug\net8.0\SelectionStatementsLecture.genruntimeconfig.cache
+C:\Users\segov\OneDrive\Desktop\repos\SelectionStatementsLecture\SelectionStatementsLecture\obj\Debug\net8.0\ref\SelectionStatementsLecture.dll
