@@ -1,0 +1,15 @@
+C:\Users\segov\OneDrive\Desktop\repos\GoldBackedCurrency\GoldBackedCurrency\bin\Debug\net8.0\GoldBackedCurrency.exe
+C:\Users\segov\OneDrive\Desktop\repos\GoldBackedCurrency\GoldBackedCurrency\bin\Debug\net8.0\GoldBackedCurrency.deps.json
+C:\Users\segov\OneDrive\Desktop\repos\GoldBackedCurrency\GoldBackedCurrency\bin\Debug\net8.0\GoldBackedCurrency.runtimeconfig.json
+C:\Users\segov\OneDrive\Desktop\repos\GoldBackedCurrency\GoldBackedCurrency\bin\Debug\net8.0\GoldBackedCurrency.dll
+C:\Users\segov\OneDrive\Desktop\repos\GoldBackedCurrency\GoldBackedCurrency\bin\Debug\net8.0\GoldBackedCurrency.pdb
+C:\Users\segov\OneDrive\Desktop\repos\GoldBackedCurrency\GoldBackedCurrency\obj\Debug\net8.0\GoldBackedCurrency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\segov\OneDrive\Desktop\repos\GoldBackedCurrency\GoldBackedCurrency\obj\Debug\net8.0\GoldBackedCurrency.AssemblyInfoInputs.cache
+C:\Users\segov\OneDrive\Desktop\repos\GoldBackedCurrency\GoldBackedCurrency\obj\Debug\net8.0\GoldBackedCurrency.AssemblyInfo.cs
+C:\Users\segov\OneDrive\Desktop\repos\GoldBackedCurrency\GoldBackedCurrency\obj\Debug\net8.0\GoldBackedCurrency.csproj.CoreCompileInputs.cache
+C:\Users\segov\OneDrive\Desktop\repos\GoldBackedCurrency\GoldBackedCurrency\obj\Debug\net8.0\GoldBackedCurrency.sourcelink.json
+C:\Users\segov\OneDrive\Desktop\repos\GoldBackedCurrency\GoldBackedCurrency\obj\Debug\net8.0\GoldBackedCurrency.dll
+C:\Users\segov\OneDrive\Desktop\repos\GoldBackedCurrency\GoldBackedCurrency\obj\Debug\net8.0\refint\GoldBackedCurrency.dll
+C:\Users\segov\OneDrive\Desktop\repos\GoldBackedCurrency\GoldBackedCurrency\obj\Debug\net8.0\GoldBackedCurrency.pdb
+C:\Users\segov\OneDrive\Desktop\repos\GoldBackedCurrency\GoldBackedCurrency\obj\Debug\net8.0\GoldBackedCurrency.genruntimeconfig.cache
+C:\Users\segov\OneDrive\Desktop\repos\GoldBackedCurrency\GoldBackedCurrency\obj\Debug\net8.0\ref\GoldBackedCurrency.dll

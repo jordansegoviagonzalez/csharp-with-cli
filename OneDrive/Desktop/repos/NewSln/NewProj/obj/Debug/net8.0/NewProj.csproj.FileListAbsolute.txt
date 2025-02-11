@@ -12,3 +12,4 @@ C:\Users\segov\OneDrive\Desktop\repos\NewSln\NewProj\obj\Debug\net8.0\refint\New
 C:\Users\segov\OneDrive\Desktop\repos\NewSln\NewProj\obj\Debug\net8.0\NewProj.pdb
 C:\Users\segov\OneDrive\Desktop\repos\NewSln\NewProj\obj\Debug\net8.0\NewProj.genruntimeconfig.cache
 C:\Users\segov\OneDrive\Desktop\repos\NewSln\NewProj\obj\Debug\net8.0\ref\NewProj.dll
+C:\Users\segov\OneDrive\Desktop\repos\NewSln\NewProj\obj\Debug\net8.0\NewProj.sourcelink.json

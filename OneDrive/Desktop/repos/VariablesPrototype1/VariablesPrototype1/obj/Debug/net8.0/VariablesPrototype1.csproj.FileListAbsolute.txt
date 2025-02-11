@@ -1,0 +1,15 @@
+C:\Users\segov\OneDrive\Desktop\repos\VariablesPrototype1\VariablesPrototype1\bin\Debug\net8.0\VariablesPrototype1.exe
+C:\Users\segov\OneDrive\Desktop\repos\VariablesPrototype1\VariablesPrototype1\bin\Debug\net8.0\VariablesPrototype1.deps.json
+C:\Users\segov\OneDrive\Desktop\repos\VariablesPrototype1\VariablesPrototype1\bin\Debug\net8.0\VariablesPrototype1.runtimeconfig.json
+C:\Users\segov\OneDrive\Desktop\repos\VariablesPrototype1\VariablesPrototype1\bin\Debug\net8.0\VariablesPrototype1.dll
+C:\Users\segov\OneDrive\Desktop\repos\VariablesPrototype1\VariablesPrototype1\bin\Debug\net8.0\VariablesPrototype1.pdb
+C:\Users\segov\OneDrive\Desktop\repos\VariablesPrototype1\VariablesPrototype1\obj\Debug\net8.0\VariablesPrototype1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\segov\OneDrive\Desktop\repos\VariablesPrototype1\VariablesPrototype1\obj\Debug\net8.0\VariablesPrototype1.AssemblyInfoInputs.cache
+C:\Users\segov\OneDrive\Desktop\repos\VariablesPrototype1\VariablesPrototype1\obj\Debug\net8.0\VariablesPrototype1.AssemblyInfo.cs
+C:\Users\segov\OneDrive\Desktop\repos\VariablesPrototype1\VariablesPrototype1\obj\Debug\net8.0\VariablesPrototype1.csproj.CoreCompileInputs.cache
+C:\Users\segov\OneDrive\Desktop\repos\VariablesPrototype1\VariablesPrototype1\obj\Debug\net8.0\VariablesPrototype1.sourcelink.json
+C:\Users\segov\OneDrive\Desktop\repos\VariablesPrototype1\VariablesPrototype1\obj\Debug\net8.0\VariablesPrototype1.dll
+C:\Users\segov\OneDrive\Desktop\repos\VariablesPrototype1\VariablesPrototype1\obj\Debug\net8.0\refint\VariablesPrototype1.dll
+C:\Users\segov\OneDrive\Desktop\repos\VariablesPrototype1\VariablesPrototype1\obj\Debug\net8.0\VariablesPrototype1.pdb
+C:\Users\segov\OneDrive\Desktop\repos\VariablesPrototype1\VariablesPrototype1\obj\Debug\net8.0\VariablesPrototype1.genruntimeconfig.cache
+C:\Users\segov\OneDrive\Desktop\repos\VariablesPrototype1\VariablesPrototype1\obj\Debug\net8.0\ref\VariablesPrototype1.dll
